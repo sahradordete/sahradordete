@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with IT Support but I'm looking for a career change to Web Development. 
 - 🌱 I’m currently learning HTML, CSS and JavaScript. 
 - 👯 I’m looking for my first opportunity in Tech. 
-- 📫 How to reach me: sahrad.ovalhes@gmail.com or on Linkedin: www.linkedin.com/in/sahradordete
 
 <div align="center">
   <a href="https://github.com/sahradordete">
