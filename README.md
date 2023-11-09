@@ -1,8 +1,7 @@
 ### Hi there, it's me Sahra 👋
 
-- 🔭 I'm looking for a career change to Web Development. 
-- 🌱 I’m currently learning HTML, CSS and JavaScript. 
 - 👯 I’m looking for my first opportunity in Tech. 
+- 🌱 I’m currently learning HTML, CSS and JavaScript. 
 
 <div align="center">
   <a href="https://github.com/sahradordete">
