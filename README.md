@@ -1,7 +1,7 @@
 ### Hi there, it's me Sahra 👋
 
 - 👯 I’m looking for my first opportunity in Tech. 
-- 🌱 I’m currently learning HTML, CSS and JavaScript. 
+- 🌱 I’m currently a Software Engineering Student at the University of Greater Manchester. 
 
 <div align="center">
   <a href="https://github.com/sahradordete">
